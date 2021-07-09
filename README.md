@@ -1,7 +1,7 @@
 # UFO's - Using HTML and JavaScript to Filter UFO Data
 
 ## Overview of Project
-Explain the purpose of this analysis.
+The purpose of this project is to use HTML, JavaScript, and CSS elements to create a search filter option to filter a dataset of UFO sighting information on specific elements, and present the filtered table in the webpage. 
 
 ## Results
 Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
